@@ -1,6 +1,6 @@
-C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\clap\clap_test\target\debug\deps\clap_test.exe: src\main.rs
+C:\Users\bened\OneDrive\Documents\Development\RustStudy\projects\clap\clap_test\target\debug\deps\clap_test.exe: src\main.rs
 
-C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\clap\clap_test\target\debug\deps\clap_test.d: src\main.rs
+C:\Users\bened\OneDrive\Documents\Development\RustStudy\projects\clap\clap_test\target\debug\deps\clap_test.d: src\main.rs
 
 src\main.rs:
 

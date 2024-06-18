@@ -9,7 +9,7 @@ fn main() {
                 .short('f')
                 .long("first-name")
                 .aliases(["fname"])
-                .required(true)
+                // .required(true)
                 .help("The person's first name")
                 // .conflicts_with("lastname")
         )
@@ -48,5 +48,5 @@ fn main() {
     let fname: &String = person_args.get_one::<String>("firstname").unwrap();
     let lname: &String = person_args.get_one::<String>("lastname").unwrap();
 
-    println!("Firstname: {} Lastname: {}", fname, lname);    
+    println!("Firstname: {} Lastname: {}", fname, lname);  
 }

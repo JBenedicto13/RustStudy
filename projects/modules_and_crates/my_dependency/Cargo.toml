@@ -1,0 +1,7 @@
+[package]
+name = "my_dependency"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+my_dependency = { path = "../my_dependency" }

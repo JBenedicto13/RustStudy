@@ -1,0 +1,1 @@
+C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\common_collections\target\debug\common_collections.exe: C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\common_collections\src\main.rs

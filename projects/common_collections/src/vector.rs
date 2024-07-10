@@ -1,4 +1,4 @@
-pub fn vector_mod {
+pub fn vector_mod() {
     // Vector
     let v: Vec<i32> = Vec::new(); //Initiating a vector with no values
 
@@ -11,9 +11,8 @@ pub fn vector_mod {
     v.push(7);
     // v.push(8);
 
-
     println!("Vector collection:\n{:?}", v);
-    let third:&i32 = &v[2];
+    let third: &i32 = &v[2];
     println!("The third element is {third}");
 
     let fourth: Option<&i32> = v.get(3);

@@ -1,0 +1,1 @@
+C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\common_collections\target\debug\libcommon_collections.rlib: C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\common_collections\src\lib.rs C:\Users\jbenedicto\Documents\Development\Web3\Rust\projects\common_collections\src\vector.rs
